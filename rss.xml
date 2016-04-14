@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Coco Lastico]]></title>
         <description><![CDATA[Coco Lastico]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coco-lastico/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 13:02:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 13:06:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coco-lastico/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/369504c1-85a5-497b-9fcf-091ddb11e187.jpg">]]></description>
-            <link>undefinedlorem-ipsum/index.html</link>
+            <link>https://thegrid.ai/coco-lastico/lorem-ipsum/index.html</link>
             <guid isPermaLink="false">25698eeb-a2eb-4d3d-9383-330311757a48</guid>
-            <pubDate>Thu, 14 Apr 2016 13:01:39 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 13:06:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
