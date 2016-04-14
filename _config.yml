@@ -1,7 +1,7 @@
 name: Coco Lastico
 favicon: null
 layout_spectrum: 0.7153677605092525
-typography_spectrum: 0.23950395151041448
+typography_spectrum: 0.49664
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#010101'
+    - '#a1a5b1'
+    - '#c5c9d4'
+    - '#494f5d'
+    - '#70798a'
   brandStrength: 0.41703615756705403
   lightness: 0.9852717469912022
   saturation: 0.3526985466014594
