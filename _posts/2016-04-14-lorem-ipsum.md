@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: lorem ipsum
-datePublished: '2016-04-14T13:01:39.225Z'
-dateModified: '2016-04-14T13:01:20.839Z'
+datePublished: '2016-04-14T13:06:09.434Z'
+dateModified: '2016-04-14T13:01:45.484Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-lorem-ipsum.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-lorem-ipsum.md
-published: true
 url: lorem-ipsum/index.html
 _type: Article
 
