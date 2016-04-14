@@ -4,8 +4,15 @@
         <description><![CDATA[Coco Lastico]]></description>
         <link>https://thegrid.ai/coco-lastico/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 13:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 13:11:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coco-lastico/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Yo bro !</p>]]></description>
+            <link>https://thegrid.ai/coco-lastico/b26f00ba-26f8-43a7-b5b3-b11056a6a092/index.html</link>
+            <guid isPermaLink="false">b26f00ba-26f8-43a7-b5b3-b11056a6a092</guid>
+            <pubDate>Thu, 14 Apr 2016 13:11:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/369504c1-85a5-497b-9fcf-091ddb11e187.jpg">]]></description>
